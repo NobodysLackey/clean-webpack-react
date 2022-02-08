@@ -1,6 +1,9 @@
 * {
   text-align: center;
   margin: 1 auto;
+
   background-color: rgb(194, 235, 255);
+  
+  font-family: 'Baloo 2', cursive;
   color: rgb(28,120,192);
 }
