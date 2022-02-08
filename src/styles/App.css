@@ -1,9 +1,17 @@
 * {
   text-align: center;
-  margin: 1 auto;
+  margin: 0 auto;
+}
 
+.home {
   background-color: rgb(194, 235, 255);
-  
+  height: 100vh;
+}
+
+.title {
   font-family: 'Baloo 2', cursive;
   color: rgb(28,120,192);
+  font-weight: bold;
+  padding-top: 2vh;
+  font-size: 4vh;
 }
