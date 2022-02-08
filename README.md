@@ -1,5 +1,7 @@
 ![Webpack](https://img.search.brave.com/0TUNvK-IgzgrjEXjkNrzxgn3W8Zy1JVxlo_zCJ9chLQ/rs:fit:400:300:1/g:ce/aHR0cHM6Ly93d3cu/d2Via2luZGVyLmNo/L3dwLWNvbnRlbnQv/dXBsb2Fkcy93ZWJw/YWNrLUxvZ28uc3Zn.svg)
 
+## Clean Webpack React
+
 ### Date: 2/8/2022
 
 #### By: Michael Lackey
